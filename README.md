@@ -1,2 +1,2 @@
 # learnGit
-This is my first time using Github
+This is my first time to use Github
